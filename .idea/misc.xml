@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Project1-SetterInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Project2-ConstructorInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Project3-DependencyInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Project5-FactoryPattern-ProblemCode/pom.xml" />
+        <option value="$PROJECT_DIR$/Project6-FactoryPattern-Solution/pom.xml" />
+        <option value="$PROJECT_DIR$/Project7-StrategyDp-CoreJava/pom.xml" />
+        <option value="$PROJECT_DIR$/Project8-StrategyDp-CoreJava-PropertiesFileLooselyCouples/pom.xml" />
+        <option value="$PROJECT_DIR$/Project9-StrategyDP-Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Project10-Singleton-CoreJava/pom.xml" />
+        <option value="$PROJECT_DIR$/Project11-SpringBeanScope/pom.xml" />
+        <option value="$PROJECT_DIR$/Project14-RequiredAnno/pom.xml" />
+        <option value="$PROJECT_DIR$/Project15-AutowiredAnno/pom.xml" />
+        <option value="$PROJECT_DIR$/Project16-Autowired-StreoTypeAnno/pom.xml" />
+        <option value="$PROJECT_DIR$/Project17-Streotype-Annotation-RuntimeDependent/pom.xml" />
+        <option value="$PROJECT_DIR$/Project19-SpringBeanLifeCycle-Declarative/pom.xml" />
+        <option value="$PROJECT_DIR$/Project20-SpringBeanLifeCycle-ProgramaticAp/pom.xml" />
+        <option value="$PROJECT_DIR$/Project21-SpringBeanLifeCycle-AnnotationAp/pom.xml" />
+        <option value="$PROJECT_DIR$/Project22-AllSprinBeanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Project23-100pCode-BasicApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Project24SpringORM/pom.xml" />
+        <option value="$PROJECT_DIR$/Project25-SpringMVC1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

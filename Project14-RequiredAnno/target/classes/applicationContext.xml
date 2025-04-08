@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--Dependent spring bean-->
+    <bean id = "robo" class = "org.Robot">
+        <property name="id" value="111"/>
+        <property name="name" value="chitti"/>
+<!--        <property name="lab" value="ISRO"/>-->
+        <property name="price" value="524652"/>
+    </bean>
+
+    <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+
+
+
+</beans>

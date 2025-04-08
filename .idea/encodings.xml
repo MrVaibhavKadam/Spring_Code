@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Project1-SetterInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project1-SetterInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project10-Singleton-CoreJava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project10-Singleton-CoreJava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project11-SpringBeanScope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project11-SpringBeanScope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project14-RequiredAnno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project14-RequiredAnno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project15-AutowiredAnno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project15-AutowiredAnno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project16-Autowired-StreoTypeAnno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project16-Autowired-StreoTypeAnno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project17-Streotype-Annotation-RuntimeDependent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project17-Streotype-Annotation-RuntimeDependent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project19-SpringBeanLifeCycle-Declarative/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project19-SpringBeanLifeCycle-Declarative/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project2-ConstructorInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project2-ConstructorInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project20-SpringBeanLifeCycle-ProgramaticAp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project20-SpringBeanLifeCycle-ProgramaticAp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project21-SpringBeanLifeCycle-AnnotationAp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project21-SpringBeanLifeCycle-AnnotationAp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project22-AllSprinBeanLifeCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project22-AllSprinBeanLifeCycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project23-100pCode-BasicApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project23-100pCode-BasicApp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project24SpringORM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project24SpringORM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project25-SpringMVC1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project25-SpringMVC1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project3-DependencyInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project3-DependencyInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project5-FactoryPattern-ProblemCode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project5-FactoryPattern-ProblemCode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project6-FactoryPattern-Solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project6-FactoryPattern-Solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project7-StrategyDp-CoreJava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project7-StrategyDp-CoreJava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project8-StrategyDp-CoreJava-PropertiesFileLooselyCouples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project8-StrategyDp-CoreJava-PropertiesFileLooselyCouples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project9-StrategyDP-Spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project9-StrategyDP-Spring/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

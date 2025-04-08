@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Project3-DependencyInjection" />
+        <module name="Project11-SpringBeanScope" />
+        <module name="Project15-AutowiredAnno" />
+        <module name="Project14-RequiredAnno" />
+        <module name="Project16-Autowired-StreoTypeAnno" />
+        <module name="Project17-Streotype-Annotation-RuntimeDependent" />
+        <module name="Project23-100pCode-BasicApp" />
+        <module name="Project5-FactoryPattern-ProblemCode" />
+        <module name="Project2-ConstructorInjection" />
+        <module name="Project8-StrategyDp-CoreJava-PropertiesFileLooselyCouples" />
+        <module name="Project20-SpringBeanLifeCycle-ProgramaticAp" />
+        <module name="Project25-SpringMVC1" />
+        <module name="Project10-Singleton-CoreJava" />
+        <module name="Project1-SetterInjection" />
+        <module name="Project24SpringORM" />
+        <module name="Project22-AllSprinBeanLifeCycle" />
+        <module name="Project9-StrategyDP-Spring" />
+        <module name="Project7-StrategyDp-CoreJava" />
+        <module name="Project19-SpringBeanLifeCycle-Declarative" />
+        <module name="Project21-SpringBeanLifeCycle-AnnotationAp" />
+      </profile>
+      <profile name="Annotation profile for Project5-FactoryPattern-ProblemCode" enabled="true">
+        <sourceOutputDir name="../Project5-FactoryPattern-ProblemCode/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Project5-FactoryPattern-ProblemCode/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Project6-FactoryPattern-Solution" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

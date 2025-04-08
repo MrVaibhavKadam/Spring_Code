@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--Dependent spring bean-->
+    <bean id = "dt" class = "java.util.Date"/>
+
+    <!--Target class spring bean-->
+    <!--<bean id = "wmg" class ="com.service.WishMessageGenerator" scope="singleton">
+        <property name = "date" ref = "dt"/>
+    </bean>
+    <bean id = "wmg1" class ="com.service.WishMessageGenerator" >
+        <property name = "date" ref = "dt"/>
+    </bean>-->
+
+    <bean id = "wmg" class ="com.service.WishMessageGenerator" scope="singleton" lazy-init="true">
+        <property name = "date" ref = "dt"/>
+    </bean>
+
+    <!--<bean id="p1" class="com.service.Printer"/>
+    <bean id="p2" class="com.service.Printer"/>-->
+    <!--when we use below code it will create only one object and return it multiple time
+    bcoz we are using static factory method to create instance.-->
+    <bean id="p1" class="com.service.Printer" factory-method="getInstance"/>
+<!--    <bean id="p2" class="com.service.Printer" factory-method="getInstance"/>-->
+
+</beans>
