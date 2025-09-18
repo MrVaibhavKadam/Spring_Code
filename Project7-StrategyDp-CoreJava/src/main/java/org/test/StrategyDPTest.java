@@ -11,5 +11,7 @@ public class StrategyDPTest {
         String result = fk.shopping(new String[]{"Shirt", "Jeans","Jogger"}, new float[]{1000.0f,3000.0f,5000.0f});
 
         System.out.println("Result "+result);
+ System.out.println("Result "+result);
+  
     }
 }
